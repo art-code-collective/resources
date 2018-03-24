@@ -1,9 +1,14 @@
 # Resources
 
+## Artists
+
+- [Kate Compton's Website](http://www.galaxykate.com/)
+
 ## Articles
 
 ### Generative Art
 
+- [So You Build a Generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
 - [What Programming Brings to Artwork](http://www.tylerlhobbs.com/writings/programming-artwork)
 - [Working with Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors)
 - [Tips to Improve Your Generative Art](http://www.tylerlhobbs.com/writings/tips)
