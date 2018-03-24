@@ -1,12 +1,13 @@
 # Resources
 
-## Artists
+## Generative Art
+
+### Works and Artists
 
 - [Kate Compton](http://www.galaxykate.com/)
+- [On Generative Algorithms](http://inconvergent.net/generative/)
 
-## Articles
-
-### Generative Art
+### Articles
 
 - [So You Build a Generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
 - [What Programming Brings to Artwork](http://www.tylerlhobbs.com/writings/programming-artwork)
