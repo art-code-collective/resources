@@ -2,7 +2,7 @@
 
 ## Artists
 
-- [Kate Compton's Website](http://www.galaxykate.com/)
+- [Kate Compton](http://www.galaxykate.com/)
 
 ## Articles
 
